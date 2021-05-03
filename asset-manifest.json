@@ -1,0 +1,26 @@
+{
+  "files": {
+    "main.css": "/web_sekolah/static/css/main.b28af162.chunk.css",
+    "main.js": "/web_sekolah/static/js/main.eae983df.chunk.js",
+    "main.js.map": "/web_sekolah/static/js/main.eae983df.chunk.js.map",
+    "runtime-main.js": "/web_sekolah/static/js/runtime-main.2eef0dbe.js",
+    "runtime-main.js.map": "/web_sekolah/static/js/runtime-main.2eef0dbe.js.map",
+    "static/css/2.4c97ca4f.chunk.css": "/web_sekolah/static/css/2.4c97ca4f.chunk.css",
+    "static/js/2.f79d0f7e.chunk.js": "/web_sekolah/static/js/2.f79d0f7e.chunk.js",
+    "static/js/2.f79d0f7e.chunk.js.map": "/web_sekolah/static/js/2.f79d0f7e.chunk.js.map",
+    "static/js/3.e6428264.chunk.js": "/web_sekolah/static/js/3.e6428264.chunk.js",
+    "static/js/3.e6428264.chunk.js.map": "/web_sekolah/static/js/3.e6428264.chunk.js.map",
+    "index.html": "/web_sekolah/index.html",
+    "static/css/2.4c97ca4f.chunk.css.map": "/web_sekolah/static/css/2.4c97ca4f.chunk.css.map",
+    "static/css/main.b28af162.chunk.css.map": "/web_sekolah/static/css/main.b28af162.chunk.css.map",
+    "static/js/2.f79d0f7e.chunk.js.LICENSE.txt": "/web_sekolah/static/js/2.f79d0f7e.chunk.js.LICENSE.txt",
+    "static/media/pic4.be1f7fa7.jpg": "/web_sekolah/static/media/pic4.be1f7fa7.jpg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.2eef0dbe.js",
+    "static/css/2.4c97ca4f.chunk.css",
+    "static/js/2.f79d0f7e.chunk.js",
+    "static/css/main.b28af162.chunk.css",
+    "static/js/main.eae983df.chunk.js"
+  ]
+}
